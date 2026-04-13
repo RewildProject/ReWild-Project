@@ -1,0 +1,7 @@
+# Ignorar backups pesados
+app/public/wp-content/ai1wm-backups/
+*.wpress
+
+# Ignorar configuración local
+.DS_Store
+node_modules/
